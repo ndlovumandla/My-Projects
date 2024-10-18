@@ -1,0 +1,9 @@
+game\Game.class
+models\Character.class
+models\Player.class
+models\HealerNPC.class
+models\SpecialNPC.class
+models\NPC.class
+models\RegularNPC.class
+ui\GameUI.class
+models\Interactable.class

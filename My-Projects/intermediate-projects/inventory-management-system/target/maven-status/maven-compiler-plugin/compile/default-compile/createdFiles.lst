@@ -1,0 +1,3 @@
+com\ndlovumandla\inventory\views\InventoryApp.class
+com\ndlovumandla\inventory\controllers\InventoryManager.class
+com\ndlovumandla\inventory\models\Product.class
